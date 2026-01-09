@@ -33,4 +33,4 @@ require("lazy").setup({
 
   })
 
-require'nvim-treesitter'.install { 'javascript', 'tsx', 'python', 'java', 'lua', 'go', 'markdown' }
+--require'nvim-treesitter'.install { 'javascript', 'tsx', 'python', 'java', 'lua', 'go', 'markdown' }
